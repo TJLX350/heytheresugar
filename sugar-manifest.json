@@ -1,0 +1,15 @@
+{
+  "name": "Sugar Tracker",
+  "short_name": "Sugar",
+  "description": "A warm porch to catch and keep your sweet moments.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#2A1B10",
+  "theme_color": "#2A1B10",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
